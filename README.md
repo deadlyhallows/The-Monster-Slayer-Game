@@ -9,7 +9,7 @@ In order to know and use this project you need to know how Javascript work and h
 
 Built With
 ----------
-* Vue.js;
-* Javascript;
-* HTML;
-* css.
+* Vue.js
+* Javascript
+* HTML
+* css
